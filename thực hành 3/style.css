@@ -37,7 +37,7 @@ body {
 
 .card_cart {
     right: 20px;
-    left: unset; /* Sử dụng 'unset' để bỏ qua thuộc tính 'left' */
+    left: unset; 
 }
 
 .card_img {
